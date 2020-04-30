@@ -11,7 +11,7 @@ There is one **DIY instruction** to make this robot [here][3], but don't have so
 
 So tried to work on building one sterilization device by UV Light as opensource project.
 
-for this Goal i have made one GitHub repository which connected to one group teams which selected with consulting by some others like this question.
+for this Goal i have made one [GitHub repository](https://github.com/GSH-Open-source-projects/UV-covind19) which connected to one group teams which selected with consulting by some others like this question.
 
 There are some question which is need to answered are like:
 
