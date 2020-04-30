@@ -15,7 +15,7 @@ for this Goal i have made one [GitHub repository](https://github.com/GSH-Open-so
 
 There are some question which is need to answered are like:
 
-**1-** which one UV type is proper to using? which asked here as Simple question that needs to modified during the time by the answers and comments at the SE site.
+**1-** which one UV type is proper to using? which asked [here](https://medicalsciences.stackexchange.com/questions/23461/uv-proper-type-for-covid-19-sterilization) as Simple question that needs to modified during the time by the answers and comments at the SE site.
 
 **2-** how much power and time could be proper to sterilization one aria ( For example for 1 meter distance asked [here][4])?
 
